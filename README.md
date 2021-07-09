@@ -1,2 +1,10 @@
-# craken
-This Script To Retrieve Facebook Account, Very Fast Retrieval Process
+# USAGE
+```
+git clone https://github.com/Boy-Tolkit/craken
+cd craken
+python2 craken.py
+```
+- [ ] Metode Login
+```
+Cookie & Token
+```
