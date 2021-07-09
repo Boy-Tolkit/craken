@@ -5,6 +5,5 @@ cd craken
 python2 craken.py
 ```
 - [ ] Metode Login
-```
-Cookie & Token
-```
+
+• `Cookie & Token`
